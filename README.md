@@ -18,3 +18,7 @@ A high-energy landing page for Volt — the ultimate energy drink for those who 
 - **Animations:** react-reveal-animation
 - **Icons:** lucide-react
 - **Image:** canva (custom)
+
+## Live Page
+
+- **Link:** (https://volt-landing-page-black.vercel.app/)
